@@ -1,2 +1,0 @@
-# Legacy-Launcher-Web
- Yuh
